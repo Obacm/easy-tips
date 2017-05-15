@@ -1,4 +1,4 @@
-## 常用sql语句整理：mysql
+## 常用SQL语句整理：mysql
 
 
 1. 增
